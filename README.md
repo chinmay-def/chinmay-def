@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Koltlin MultiPlatform**
 
-- 📝 I regularly write articles on [Hash node](Hash node)
+- 📝 I regularly write articles on Medium
 
 - 📫 How to reach me **chinmaychaudhary89@gmail.com**
 
